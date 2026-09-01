@@ -1,0 +1,9 @@
+# Work Submission & Grading System — Infographic
+Title: "Work Submission & Grading System"
+Description: "An AI-graded pipeline for MC, FRQ, and GitHub Issue submissions. Every submission, its Gemini-generated score, and its feedback get stored the way the existing game-submission feedback spreadsheet does today, but in a database admins can browse directly."
+
+Team:
+  - "Nicolas Diaz"
+  - "William Windle"
+
+Year: "2026-2027"
